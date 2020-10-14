@@ -1,0 +1,1 @@
+Run the gamepedia crawler.py to collect images into this folder
